@@ -1,4 +1,4 @@
-# Statistical Analysis of Climate Change Data (1900-2013)
+# Statistical Analysis of Climate Data (1900-2013)
 
 #### Walid Ajbar, Apolline Hadjal, Alen Rostomyan, Alienor Sabourdin, Alexander Verhaeghe
 
