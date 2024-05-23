@@ -1,5 +1,7 @@
 # Statistical Analysis of Climate Change Data (1900-2013)
 
+#### Walid Ajbar, Apolline Hadjal, Alen Rostomyan, Alienor Sabourdin
+
 ## Overview
 
 This project consists of a various forms of statistical analysis on data related to surface temperatures and greenhouse gas emissions (GHG) since the start of the 20th century.
